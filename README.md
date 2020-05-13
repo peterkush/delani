@@ -1,7 +1,7 @@
 Author 
 Peter Kungu
 
-live link:
+live link:https://peterkush.github.io/delani/.
 
 Technologies used.
 Html
